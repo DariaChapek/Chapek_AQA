@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cda79c87-ba3c-4c45-943f-01a2b515ab7e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1baYzv7xr4Bc47YiBPV5F4MHw4t" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Car" />
+      <recent name="Calculator" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TestsCarArray">
+    <configuration name="CarExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Car.CarExample" />
+      <module name="Homework11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Car.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="Homework11" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="Homework11" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestsCarArray" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Homework11" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestsCarArray" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestsCarArray.testGetColorStatistic" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Homework11" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestsCarArray" />
+      <option name="METHOD_NAME" value="testGetColorStatistic" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestsCarArray.testGetUniqueCars" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Homework11" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestsCarArray" />
+      <option name="METHOD_NAME" value="testGetUniqueCars" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestsCarArray.testSortedCars" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Homework11" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestsCarArray" />
+      <option name="METHOD_NAME" value="testSortedCars" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestsCarArray" />
+        <item itemvalue="Application.CarExample" />
+        <item itemvalue="TestNG.TestsCarArray.testGetUniqueCars" />
+        <item itemvalue="TestNG.TestsCarArray.testSortedCars" />
+        <item itemvalue="TestNG.TestsCarArray.testGetColorStatistic" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cda79c87-ba3c-4c45-943f-01a2b515ab7e" name="Default Changelist" comment="" />
+      <created>1588871937053</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588871937053</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="190" width="800" height="717" key="#Intentions" timestamp="1589235732614">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="190" width="800" height="717" key="#Intentions/0.0.1680.1050@0.0.1680.1050" timestamp="1589235732614" />
+    <state x="98" y="124" width="1480" height="740" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1589276910677">
+      <screen x="0" y="23" width="1680" height="940" />
+    </state>
+    <state x="98" y="124" width="1480" height="740" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1680.940@0.23.1680.940" timestamp="1589276910677" />
+    <state x="653" y="241" key="#com.intellij.ide.util.MemberChooser" timestamp="1589297094928">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="653" y="241" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1589297094928" />
+    <state x="578" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588878900117">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="578" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1588878900117" />
+    <state width="1638" height="251" key="GridCell.Tab.0.bottom" timestamp="1589303053760">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="251" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1589303053760" />
+    <state width="1638" height="251" key="GridCell.Tab.0.bottom/0.23.1680.940@0.23.1680.940" timestamp="1589302298928" />
+    <state width="1638" height="251" key="GridCell.Tab.0.center" timestamp="1589303053759">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="251" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1589303053759" />
+    <state width="1638" height="251" key="GridCell.Tab.0.center/0.23.1680.940@0.23.1680.940" timestamp="1589302298927" />
+    <state width="1638" height="251" key="GridCell.Tab.0.left" timestamp="1589303053758">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="251" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1589303053758" />
+    <state width="1638" height="251" key="GridCell.Tab.0.left/0.23.1680.940@0.23.1680.940" timestamp="1589302298927" />
+    <state width="1638" height="251" key="GridCell.Tab.0.right" timestamp="1589303053759">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="251" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1589303053759" />
+    <state width="1638" height="251" key="GridCell.Tab.0.right/0.23.1680.940@0.23.1680.940" timestamp="1589302298928" />
+    <state width="1638" height="362" key="GridCell.Tab.1.bottom" timestamp="1589295790247">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="362" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1589295790247" />
+    <state width="1638" height="310" key="GridCell.Tab.1.bottom/0.23.1680.940@0.23.1680.940" timestamp="1589276742080" />
+    <state width="1638" height="362" key="GridCell.Tab.1.center" timestamp="1589295790245">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="362" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1589295790245" />
+    <state width="1638" height="310" key="GridCell.Tab.1.center/0.23.1680.940@0.23.1680.940" timestamp="1589276742078" />
+    <state width="1638" height="362" key="GridCell.Tab.1.left" timestamp="1589295790245">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="362" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1589295790245" />
+    <state width="1638" height="310" key="GridCell.Tab.1.left/0.23.1680.940@0.23.1680.940" timestamp="1589276742078" />
+    <state width="1638" height="362" key="GridCell.Tab.1.right" timestamp="1589295790246">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="362" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1589295790246" />
+    <state width="1638" height="310" key="GridCell.Tab.1.right/0.23.1680.940@0.23.1680.940" timestamp="1589276742079" />
+    <state x="328" y="106" key="SettingsEditor" timestamp="1588875664302">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="328" y="106" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1588875664302" />
+    <state x="505" y="248" key="run.anything.popup" timestamp="1588875529944">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="248" key="run.anything.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1588875529944" />
+  </component>
+</project>
