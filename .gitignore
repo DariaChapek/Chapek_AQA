@@ -36,3 +36,8 @@ dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
 .mvn/wrapper/maven-wrapper.jar
+.DS_Store
+Homework11/src/.DS_Store
+Homework11/.DS_Store
+Homework11/src/main/.DS_Store
+Homework11/src/test/.DS_Store

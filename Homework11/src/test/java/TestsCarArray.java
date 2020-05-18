@@ -16,10 +16,11 @@ public class TestsCarArray {
     Car car2 = new Car("BMW", "red", 2016, "Automatic");
     Car car3 = new Car("Audi", "black", 2002, "Manual");
 
-    private CarArray carArray = new CarArray();
+    private CarArray carArray;
 
     @BeforeClass
     public void testAddCars() {
+        carArray = new CarArray();
         carArray.add(car1);
         carArray.add(car2);
         carArray.add(car3);
