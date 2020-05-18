@@ -1,19 +1,11 @@
-<<<<<<< Updated upstream
-package HomeworkNine;
-=======
 package HomeworkTen;
->>>>>>> Stashed changes
 
 
 import java.util.Scanner;
 
 public class Calculator {
 
-<<<<<<< Updated upstream
-    public static void main(String[] args) {
-=======
     public static void main(String[] args) throws Exception {
->>>>>>> Stashed changes
 
         Scanner scanner = new Scanner(System.in);
 
@@ -40,18 +32,6 @@ public class Calculator {
             String sign = scanner.nextLine();
             switch (sign) {
                 case "+":
-<<<<<<< Updated upstream
-                    System.out.println(CalculatorMethods.add(number1, number2));
-                    break;
-                case "-":
-                    System.out.println(CalculatorMethods.sub(number1, number2));
-                    break;
-                case "*":
-                    System.out.println(CalculatorMethods.mul(number1, number2));
-                    break;
-                case "/":
-                    System.out.println(CalculatorMethods.div(number1, number2));
-=======
                     System.out.println(CalculatorMethods.addition(number1, number2));
                     break;
                 case "-":
@@ -62,7 +42,6 @@ public class Calculator {
                     break;
                 case "/":
                     System.out.println(CalculatorMethods.division(number1, number2));
->>>>>>> Stashed changes
                     break;
                 default:
                     System.out.println("Неверный знак.");
